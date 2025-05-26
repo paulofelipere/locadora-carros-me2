@@ -1,3 +1,6 @@
+/* ME2 Programação Avançada
+* Alunos: Fábio Bandolin Martins, Gladiston Teles , João Victor de Andrade e Paulo Felipe Rezende da Silva*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
